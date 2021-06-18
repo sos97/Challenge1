@@ -144,8 +144,9 @@ button{
 .one{
  background-color: white;
  color: grey; 
- width: 72%;
+ width: 64%;
  padding-left: 8%;
+ padding-right: 8%;
  padding-top: 10px;
  padding-bottom: 30px;
  border-radius: 10px 10px 0 0;
@@ -161,9 +162,10 @@ button{
  color: white;
  float: left;
  display: inline-block;
- width: 92%;
+ width: 84%;
  height: 250px;
  padding-left: 8%;
+ padding-right: 8%;
  padding-top: 10px;
  
    
@@ -175,9 +177,10 @@ button{
  background-color: #4abebd;
  color: white;
  display: inline-block;
- width: 92%;
+ width: 84%;
  height: 250px;
  padding-left: 8%;
+ padding-right: 8%;
  padding-top: 10px;
  vertical-align: top;
  border-bottom-right-radius: 10px;
